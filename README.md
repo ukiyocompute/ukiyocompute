@@ -1,6 +1,6 @@
 # Ukiyo
 
-**Rent a GPU in seconds, from Telegram, your terminal or your AI agent.** Pick a GPU, fund your balance once, pay only for what you use.
+**Rent a GPU. In Seconds. On Telegram.** Pick a GPU, fund your balance once, pay only for what you use.
 
 [Website](https://u-kiyo.ai) · [Docs](https://docs.u-kiyo.ai) · [Live GPU prices](https://u-kiyo.ai/gpu/) · [Telegram](https://t.me/UkiyoComputeBot)
 
